@@ -43,4 +43,3 @@ async def ide_sampah(ctx):
         f.close()
     await ctx.send(file=picture)
 
-bot.run("MTE1MTUwMDI3MDc4MjY2NDcwNA.GD6iE_.22U3l39f7K4hsoIVvuQj-1qDbblF96XNU8rtf4")
